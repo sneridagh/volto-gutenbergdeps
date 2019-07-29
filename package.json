@@ -25,7 +25,6 @@
 		"@wordpress/dom": "latest",
 		"@wordpress/dom-ready": "latest",
 		"@wordpress/edit-post": "latest",
-		"@wordpress/edit-widgets": "latest",
 		"@wordpress/editor": "latest",
 		"@wordpress/element": "latest",
 		"@wordpress/escape-html": "latest",
